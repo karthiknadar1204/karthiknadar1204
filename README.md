@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Karthik Nadar
-#### Web Developement and Devops
+# Hi there 👋, I'm Karthik Nadar
+## Web Developement and Devops
 
 
 Hello, and welcome to my GitHub profile!
