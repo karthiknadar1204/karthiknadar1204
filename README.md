@@ -1,6 +1,6 @@
 ### Hi there 👋, Karthik Nadar
 #### Web Developement and Devops
-![Web Developement and Devops](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developement and Devops]
 
 Hello, and welcome to my GitHub profile!
 
