@@ -1,4 +1,4 @@
-### Hi there 👋, Karthik Nadar
+### Hi there 👋, I'm Karthik Nadar
 #### Web Developement and Devops
 
 
@@ -22,3 +22,8 @@ Skills:  REACT / JS / HTML / CSS/ NODE JS/MONGO DB/ DOCKER/ YAML/ LINUX/ COMPUTE
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthiknadar1204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@karthik1204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karthik-nadar-b2155a25b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karthik_estrella1204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Karthikreincar1)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiknadar1204&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=karthiknadar1204)  
+
+![Profile views](https://gpvc.arturio.dev/karthiknadar1204)  
