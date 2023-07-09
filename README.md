@@ -4,7 +4,7 @@
 
 Hello, and welcome to my GitHub profile!
 
-My name is Karthik Nadar, and I'm a full stack web developer based in India. I'm passionate about staying up to date with the latest trends in the tech industry and sharing my knowledge with others. That's why I publish weekly technical blogs on Hashnode that cover topics like web development, DevOps, machine learning, and artificial intelligence.
+My name is Karthik Nadar, and I'm a frontend web developer, I am exploring backend development. I am a  developer based in India. I'm passionate about staying up to date with the latest trends in the tech industry and sharing my knowledge with others. That's why I publish weekly technical blogs on Hashnode that cover topics like web development, DevOps, machine learning, and artificial intelligence.
 
 When it comes to programming languages, I'm skilled in C, C++, Java, and Python. As a MERN stack developer, I specialize in building web applications using MongoDB, Express, React, and Node.js.
 
