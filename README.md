@@ -1,23 +1,51 @@
-# Hi there 👋, I'm Karthik Nadar
-## Web Developement and Devops
+# Welcome to my GitHub!
+
+I'm **Karthik Nadar**, a passionate Cloud & DevOps Engineer and Full-Stack Developer. I am dedicated to crafting scalable infrastructures and pushing the boundaries of machine learning.
+
+## 🚀 About Me
+
+With a solid foundation in building resilient backend architectures using **Express.js**, **FastAPI**, and **Python**, I strive to create seamless user experiences through expertise in frontend technologies like **React** and **Next.js**.
+
+## Cloud & DevOps Expertise
+
+My proficiency in cloud technologies includes:
+
+| **Category**   | **Technologies**                         |
+|----------------|------------------------------------------|
+| **Compute**    | EC2, EKS                                 |
+| **Networking** | VPC, Route53                             |
+| **Storage**    | S3                                       |
+| **CI/CD**      | Jenkins, GitHub Actions                  |
+| **Automation** | Docker, Kubernetes, Ansible, Chef, Terraform, Puppet |
+
+I pride myself on designing efficient CI/CD pipelines and utilizing orchestration tools to ensure robust and scalable infrastructure.
+
+## Machine Learning Enthusiast
+
+In the realm of machine learning, I specialize in:
+
+- **Deep Learning**: Building and fine-tuning CNN models
+- **Generative AI**: Exploring GANs, VAEs, energy-based models, and diffusion models
+- **Text-to-Image Models**: Fine-tuning diffusion models on custom datasets using innovative methods like LORA and Dreambooth
+
+My focus on generative AI allows me to develop and deploy solutions that have a tangible impact on real-world applications.
+
+## 🌟 Projects
+
+Explore my projects on [GitHub](https://github.com/karthiknadar1204) to see my work in action. Here are a few highlights:
+
+- **Backend Architectures**: Resilient solutions using Express.js, FastAPI, and Python.
+- **Frontend Development**: Seamless user experiences with React and Next.js.
+- **Cloud Infrastructure**: Scalable solutions with AWS, Docker, and Kubernetes.
+- **Machine Learning Models**: Innovative text-to-image solutions with stable diffusion models.
+
+## 📫 Get in Touch
+
+Connect with me on [LinkedIn]( https://www.linkedin.com/in/karthik-nadar-b2155a25b/  ) or explore my repositories to learn more about my work and collaborations.
+
+Thank you for visiting my GitHub. Let's build something amazing together!
 
 
-Hello, and welcome to my GitHub profile!
-
-My name is Karthik Nadar, and I'm a frontend web developer, I am exploring backend development. I am a  developer based in India. I'm passionate about staying up to date with the latest trends in the tech industry and sharing my knowledge with others. That's why I publish weekly technical blogs on Hashnode that cover topics like web development, DevOps, machine learning, and artificial intelligence.
-
-When it comes to programming languages, I'm skilled in C, C++, Java, and Python. As a MERN stack developer, I specialize in building web applications using MongoDB, Express, React, and Node.js.
-
-Currently, I'm focused on expanding my knowledge of DevOps. I've already familiarized myself with computer networking, GitHub commands, Linux, and YAML, and I'm currently learning Docker.
-
-If you want to learn more about my work and interests, be sure to check out my Twitter profile at https://twitter.com/Karthikreincar1. Thank you for visiting my profile!.
-
-Skills:  REACT / JS / HTML / CSS/ NODE JS/MONGO DB/ DOCKER/ YAML/ LINUX/ COMPUTER NETWORKING
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Devops and cloud computing. 
-- 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I love watching anime. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthiknadar1204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@karthik1204)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karthik-nadar-b2155a25b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karthik_estrella1204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Karthikreincar1)  
@@ -25,5 +53,3 @@ Skills:  REACT / JS / HTML / CSS/ NODE JS/MONGO DB/ DOCKER/ YAML/ LINUX/ COMPUTE
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiknadar1204&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=karthiknadar1204)  
-
-![Profile views](https://gpvc.arturio.dev/karthiknadar1204)  
