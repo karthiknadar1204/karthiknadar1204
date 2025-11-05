@@ -1,7 +1,7 @@
 
 #  Hey there, I’m Karthik Nadar
 
-**Backend • AI • Cloud Engineer | Builder of agentic systems | Currently learning Go 🐹**
+**Backend • AI • Cloud Engineer | Builder of agentic systems | Currently learning Go**
 
 ---
 
