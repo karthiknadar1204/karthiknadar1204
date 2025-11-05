@@ -81,7 +81,7 @@ These projects taught me why great systems feel simple— they hide the complexi
 
 > *Chat with your database in natural language.*
 > Transform structured and unstructured data into actionable insights instantly. Built using nextjs,postgresql,pinecone vector db and openai api for intelligent query generation and simulation in real time.
-> in the middle of migrating to express server and add a graph db layer and some fuzzy matching logic for mispelled terms so as to not waster user tokens.
+> in the middle of migrating to express server and add a graph db layer and some fuzzy matching logic for mispelled terms so as to not waste user tokens.
 
 ---
 
@@ -99,7 +99,7 @@ These projects taught me why great systems feel simple— they hide the complexi
 
 ---
 ### [**Kyra**](https://kitkat-ten.vercel.app/)
-[**Kyra**](https://www.npmjs.com/package/kyra-observability-sdk)
+[**Kyra sdk**](https://www.npmjs.com/package/kyra-observability-sdk)
 > A lightweight LangSmith-inspired observability SDK for LLM applications.
 > Built from scratch to understand the inner workings of LLM tracing, evaluation, and session-level analytics. Kyra helps log model interactions, visualize traces, and analyze reasoning patterns for agentic workflows.
 This was my deep dive into AI infrastructure, tracing, and developer experience — reverse-engineering the principles behind LangSmith to truly understand how observability in AI works.
