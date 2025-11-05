@@ -1,116 +1,141 @@
-# Welcome to my GitHub!
 
-I'm **Karthik Nadar**, a passionate Backend, AI, and Cloud Engineer. I thrive at the intersection of scalable infrastructure and cutting-edge machine learning, and I’m always exploring ways to bridge traditional systems with intelligent, agentic solutions.
+#  Hey there, I’m Karthik Nadar
 
----
-
-## 🚀 About Me
-
-I started my journey in full-stack and backend development — building resilient architectures using **Express.js**, **FastAPI**, and **Python**, and crafting frontend interfaces with **React** and **Next.js**. Over time, I developed a strong foundation in **DevOps** and **Cloud Infrastructure**, which helped me design systems that scale and stay reliable in production.
-
-Now, my focus is on building intelligent systems — combining the best of AI, automation, and backend architecture.
+**Backend • AI • Cloud Engineer | Builder of agentic systems | Currently learning Go 🐹**
 
 ---
 
-## 🛠 Cloud & DevOps Expertise
+## About Me
 
-My cloud and infrastructure toolkit includes:
+I’m **Karthik Nadar**, a backend, AI, and cloud engineer who loves building systems that actually *work at scale*.
 
-| **Category**   | **Technologies**                                     |
-| -------------- | ---------------------------------------------------- |
-| **Compute**    | EC2, EKS                                             |
-| **Networking** | VPC, Route53                                         |
-| **Storage**    | S3                                                   |
-| **CI/CD**      | Jenkins, GitHub Actions                              |
-| **Automation** | Docker, Kubernetes, Ansible, Chef, Terraform, Puppet |
+I started coding in my **second year of college**, right after almost being ousted in the first round of my first-ever hackathon. That moment stung — but it lit a fire in me to never be underprepared again.
 
-I enjoy building robust CI/CD pipelines, automating workflows, and using orchestration tools to streamline development and deployment.
+I began with **React** and **JavaScript**, building small projects that taught me how things worked under the hood. Soon after, I joined **GirlScript Summer of Code**, a local open-source initiative, where I ranked **22nd among 1000+ contributors**. That was my first milestone — proof that persistence compounds.
+
+From there, I went deeper into **backend engineering** with **Express.js** and **FastAPI**, built full-stack apps, and learned the hard lessons of debugging, scaling, and deployment. Around this time, I stumbled into **AI** — and it changed everything.
 
 ---
 
-## 🤖 Machine Learning & AI Systems
+##  My Journey into AI & Systems Engineering
 
-### 🧠 ML & Generative AI
+My first real AI project was a small-scale clone of **Perplexity’s search system**. I sketched the entire architecture on my notebook during my microprocessor class and then in my dorm wardrobe — from the data flow to the agentic workflow — and then brought it to life in code.
+That was my “lightbulb” moment: realizing I could build something end-to-end that thinks.
 
-* **Deep Learning**: Built and fine-tuned CNN models for computer vision tasks
-* **Generative AI**: Worked with GANs, VAEs, energy-based models, and diffusion models
-* **Text-to-Image**: Fine-tuned diffusion models using **LoRA**, **DreamBooth**, and custom pipelines for creative generation
+Later, I competed in **HackRx 5.0**, hosted at **Bajaj Finserv HQ (Pune)**, where I was among the **top 22 teams across India**. We built an **AI video generator** using **Next.js**, **Python**, and **Remotion**, another project that started out with an architecture drawing on my wardrobeto builting multiple iterations to see what works and what doesn't.
 
-### 🤖 Agentic Workflows & AI Infrastructure
+Soon after, at **HackByte 3.0 (IIIT Jabalpur)**, I built **DataShorts** — a platform that lets you **converse with your database in natural language**. Competing among **300+ teams**, we placed **4th nationwide**, and the project was praised for its chunking strategy, retrieval design, and clean architecture.
 
-I'm deeply involved in building **AI agents and agentic systems** — crafting workflows that go beyond simple prompt-response setups. I’ve worked extensively with:
-
-* **LangGraph**, **LangChain**, **LangSmith**
-* **Vercel AI SDK** for full-stack agent deployment
-* **Vector databases** like **Pinecone** for fast and accurate RAG pipelines
-* **Local LLM orchestration** using **Ollama**
-* Designing and optimizing **chunking strategies** and **retrieval flows**
-
-This is where I love to geek out — building smart, modular systems that reason, plan, and act. I see agents as the next layer of app intelligence, and I’m all-in on exploring that space.
+That hackathon project is now evolving into my personal venture — **[datashorts.com](https://datashorts.com)** — where I’m building an intelligent interface between humans and structured data.
 
 ---
 
-## 🧠 Currently Building
+##  What I’m Building & Exploring
+I believe that *the next leap in AI won’t come from bigger models — but from agents that remember.*
 
-### [**datashorts.com**](https://datashorts.com/)
+I’ve been diving deep into AI memory systems and personalization, inspired by the Mem0 research paper, experimenting with:
 
-A platform that lets you **converse with your database in natural language** and instantly turn complex data into **clear, actionable insights**. It’s all about making data more approachable, conversational, and useful.
+* Vector memory upsertion and relevance scoring
+* Tool-calling for selective long-term retention
+* Graph-based memory relationships
+* Context summarization pipelines
 
----
+These experiments aim to answer one question:
 
-## 🌟 Prominent Works
-
-### **Plum AI**
-
-[Visit Plum AI](https://plum-rose.vercel.app/)
-An AI-powered search engine (inspired by Perplexity) using **Tavily Search API** and **OpenAI**, offering fast, contextual, and accurate responses.
-
-### **KitKat AI**
-
-[Visit KitKat AI](https://dulcet-arithmetic-9e5a9f.netlify.app/)
-A smart note-taking app that lets you chat with your notes. Powered by conversational AI and natural language search to help you organize and retrieve ideas effortlessly.
-
-### **Avocado AI**
-
-[Visit Avocado AI](https://avocadoai-phi.vercel.app/)
-A text-to-video app that uses **Google TTS**, **Firebase Storage**, and **Remotion.js** to turn written content into dynamic videos. Built with **Clerk**, **PostgreSQL (Neon)**, and **Drizzle ORM**.
+> “How can we make AI *remember* like humans — contextually, intelligently, and efficiently?”
 
 ---
 
-## 🌍 Explore More Projects
+##  Reverse Engineering Developer Tools
 
-Check out my GitHub for more on:
+One of my favorite learning methods is to reverse-engineer the tools I admire.
 
-* **Backend Engineering** with Python, Express.js, FastAPI
-* **Frontend Development** with React, Next.js
-* **DevOps** and Cloud Infrastructure with AWS, Docker, Kubernetes
-* **AI Systems** with LangChain, LangGraph, Pinecone, Ollama
-* **Text-to-Image AI** and generative models
+I’ve built smaller-scale clones of:
 
----
+* LangSmith → to understand how LLM tracing and observability platforms work,made me realise how there is so much more to ai than just calling apis and models.
+* Perplexity → for retrieval, contextual Q&A, and agentic orchestration,my first intro to agentic systems and how memory is maintained across agents.
+* AWS S3 wrapper → for simplified cloud storage APIs,super exciting to actually get over the complex s3 setup and build something that does the same in a single click.
 
-## 📫 Get in Touch
-
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/karthik-nadar-b2155a25b/) or feel free to explore my GitHub for more of my work.
+These projects taught me why great systems feel simple— they hide the complexity behind clarity.
 
 ---
 
-## 🔗 Social Links
+##  My Tech Stack
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/karthiknadar1204)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@karthik1204)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karthik-nadar-b2155a25b/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/karthik_estrella1204/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/uchiha_katsuki_)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiknadar1204\&show_icons=true)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=karthiknadar1204)
+| **Category**       | **Technologies**                                                                  |
+| ------------------ | --------------------------------------------------------------------------------- |
+| **Languages**      | JavaScript, TypeScript, Python, SQL, Go (newbie — building small projects)        |
+| **Frameworks**     | Express.js, FastAPI, Next.js, React                                               |
+| **AI & LLMs**      | LangChain, LangGraph, LangSmith, Vercel AI SDK, Ollama, OpenAI, Anthropic APIs    |
+| **Databases**      | PostgreSQL (Neon), MongoDB, Pinecone (Vector DB)                                  |
+| **Cloud & DevOps** | AWS (EC2, EKS, S3, Route53), Docker                                               |                                              
+| **CI/CD & Infra**  | GitHub Actions, Jenkins, Nginx, Cloudflare R2                                     |
+| **Frontend**       | TailwindCSS, ShadCN/UI, Zustand, Clerk Auth                                       |
+| **Other Tools**    | Remotion.js, BullMQ, Redis, Drizzle ORM, Vercel, Railway                          |
 
 ---
 
-Thanks for stopping by — always down to connect, collaborate, or build something cool together 🚀
+##  Featured Projects
+
+###  [**DataShorts**](https://datashorts.com/)
+
+> *Chat with your database in natural language.*
+> Transform structured and unstructured data into actionable insights instantly. Built using nextjs,postgresql,pinecone vector db and openai api for intelligent query generation and simulation in real time.
+> in the middle of migrating to express server and add a graph db layer and some fuzzy matching logic for mispelled terms so as to not waster user tokens.
+
+---
+
+###  [**Plum AI**](https://plum-rose.vercel.app/)
+
+> AI-powered search assistant inspired by Perplexity.
+> Built with OpenAI, Tavily Search API, and Vercel AI SDK for contextual, retrieval-augmented responses.
+
+---
+
+###  [**KitKat AI**](https://kitkatai-production.up.railway.app/)
+
+> Smart note-taking app that lets you chat with your notes.
+> Built with OpenAI api, all notes get converted to embeddings in real time and a modal to chat with your notes in real time.
+
+---
+### [**Kyra**](https://kitkat-ten.vercel.app/)
+[**Kyra**](https://www.npmjs.com/package/kyra-observability-sdk)
+> A lightweight LangSmith-inspired observability SDK for LLM applications.
+> Built from scratch to understand the inner workings of LLM tracing, evaluation, and session-level analytics. Kyra helps log model interactions, visualize traces, and analyze reasoning patterns for agentic workflows.
+This was my deep dive into AI infrastructure, tracing, and developer experience — reverse-engineering the principles behind LangSmith to truly understand how observability in AI works.
+
+---
+
+##  Achievements
+
+*  **22nd out of 1000+** — *GirlScript Summer of Code 2023*
+*  **HackRx 5.0 (Bajaj Finserv HQ, Pune)** — *Top 22 teams nationwide*
+*  **HackByte 3.0 (IIIT Jabalpur)** — *4th out of 300+ teams*
+
+These experiences taught me that every hackathon, every late night, and every architecture sketch on a wall moves you one step closer to mastery.
+---
+
+## Connect With Me
+
+Let’s connect, collaborate, or brainstorm something fun:
+
+* [LinkedIn](https://www.linkedin.com/in/karthik-nadar-b2155a25b/)
+* [Hashnode](https://hashnode.com/@karthik1204)
+* [Twitter](https://twitter.com/uchiha_katsuki_)
+* [Instagram](https://www.instagram.com/karthik_estrella1204/)
+* [GitHub](https://github.com/karthiknadar1204)
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthiknadar1204\&show_icons=true\&theme=radical)
+![GitHub streak](https://streak-stats.demolab.com?user=karthiknadar1204\&theme=radical)
+
+---
+
+Thanks for stopping by — I’m always happy to connect, collaborate, or just talk about **AI systems, Golang, and scalable software engineering.**
+Let’s build something that actually works — and remembers
+
+---
+
